@@ -23,6 +23,7 @@ In response to these challenges, a Java-based GUI application was developed, uti
 ## Success Criteria
 The application encompasses various features, such as:
 - **Login Page**: Ensuring secure access for both admin and employees.
+  ![Login Page](Login.png)
 - **Inventory Management**: Facilitating the addition, editing, and deletion of inventory items.
 - **Database for Inventory**: Providing robust storage for comprehensive inventory details.
 - **Search Inventory**: Enabling inventory sorting and viewing by build.
