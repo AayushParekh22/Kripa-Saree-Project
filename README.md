@@ -76,13 +76,32 @@ The application encompasses various features, such as:
   ![Saree Order Page](Saree%20order.png)
 
 ## Installation and Setup
-Detailed instructions for installing and setting up the application on your system.
 
-## Usage
-Guidelines on utilizing the application and its array of features.
+To successfully set up the Saree Retail Management System on your system, please follow the steps outlined below:
 
-## Contributing
-Guidance for other developers interested in contributing to this project.
+### Download the Application Files
+1. **Navigate to the GitHub Repository**:
+    - Find the repository for the Saree Retail Management System on GitHub.
+2. **Acquire the Repository**:
+    - You can either download the entire repository as a ZIP file or clone it using Git 
 
-## License
-Information regarding the licensing of the project.
+### Prerequisites
+Before proceeding with the setup, make sure you meet the following prerequisites:
+1. **Java Installation**:
+    - Check if Java is installed on your system. If not, download and install the Java Development Kit (JDK) from [Oracle's JDK Download Page](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+2. **Java IDE Setup**:
+    - Install NetBeans IDE or any Java Integrated Development Environment (IDE) that supports Java applications. NetBeans can be downloaded from [Apache NetBeans](https://netbeans.apache.org/download/index.html).
+
+### Open and Run the Application
+Once you have the prerequisites sorted, you can proceed to run the application:
+1. **Open Your Java IDE**:
+    - Launch NetBeans IDE or the Java IDE of your choice.
+2. **Import the Project**:
+    - Use the IDE's project import feature to open the downloaded or cloned project.
+3. **Locate the Main Entry Point**:
+    - In the project's file structure, find the `Main.java` file. This file is typically located in the `src` directory.
+4. **Run the Application**:
+    - Execute `Main.java`. This will start the Saree Retail Management System application.
+
+**Note**: The application requires a Java Runtime Environment (JRE) to function. Ensure that your system meets this requirement for a smooth operation.
+
