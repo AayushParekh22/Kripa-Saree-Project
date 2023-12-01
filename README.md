@@ -23,25 +23,57 @@ In response to these challenges, a Java-based GUI application was developed, uti
 ## Success Criteria
 The application encompasses various features, such as:
 - **Login Page**: Ensuring secure access for both admin and employees.
+  
   ![Login Page](Login.png)
+  
 - **Inventory Management**: Facilitating the addition, editing, and deletion of inventory items.
+  
   ![Inventory Changes Page](Inventory%20changes.png)
+  
 - **Database for Inventory**: Providing robust storage for comprehensive inventory details.
+  
+  ![Inventory Page](Inventory.png)
+  
 - **Search Inventory**: Enabling inventory sorting and viewing by build.
-- **Custom Saree Management**: Managing details of sarees sent to designers.
-- **Return Management**: Tracking sarees returned from designers.
+
+  ![Search Page](Search.png)
+
 - **Pricing and Billing**: Automating the calculation of selling prices, and the generation and printing of bills.
-- **Alerts for Inventory Changes**: Notifying changes when items are sold or modified.
+
+  ![Bill Page](Bill.png)
+
 - **Employee Salary Calculation**: Computing monthly salaries of employees.
+
+  ![Salary Page](Salary.png)
+
 - **Profit Analysis**: Displaying annual and monthly profit figures.
+
+  ![Graph Profit Page](Graph%20Profit.png)
 
 ## Application Windows
 - **Data Flow Chart**
+
+  ![Data Flow Page](Data%20Flow.png)
+
 - **UML Diagram**
+
+  ![UML Page](UML.png)
+
 - **ER Diagram**
+
+  ![ER Diagram Page](ER%20Diagram.png)
+
 - **Home Page**
+
+  ![Home Page](Home.png)
+
 - **Inventory Table**
+
+  ![Inventory Page](Inventory.png)
+
 - **Order Saree Window**
+
+  ![Saree Order Page](Saree%20order.png)
 
 ## Installation and Setup
 Detailed instructions for installing and setting up the application on your system.
