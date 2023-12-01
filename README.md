@@ -1,82 +1,54 @@
-Table of Contents
-Introduction
-Defining the Problem
-Proposed Solution
-Success Criteria
-Application Windows
-Installation and Setup
-Usage
-Contributing
-License
-<a name="introduction"></a>
+# Saree Retail Management System
 
-Introduction
-This project involves the development of a GUI-based software application designed for Mrs. Kripa Shah, a small saree retail seller. The application aims to digitize and streamline the management of saree inventory, including pre-designed and customised sarees, and handling various business operations.
+## Table of Contents
+- [Introduction](#introduction)
+- [Defining the Problem](#defining-the-problem)
+- [Proposed Solution](#proposed-solution)
+- [Success Criteria](#success-criteria)
+- [Application Windows](#application-windows)
+- [Installation and Setup](#installation-and-setup)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-<a name="defining-the-problem"></a>
+## Introduction
+This project entails developing a GUI-based software application tailored for Mrs. Kripa Shah, a small saree retail seller. The application's primary goal is to digitize and streamline the management of saree inventory, encompassing both pre-designed and customised sarees, while efficiently handling various business operations.
 
-Defining the Problem
-Mrs. Kripa Shah's business involves selling sarees, which includes managing pre-made sarees and customising them through designers. Currently, her business operations, including inventory management and profit calculations, are conducted manually, leading to inefficiencies and challenges as her business grows.
+## Defining the Problem
+Mrs. Kripa Shah's business model revolves around selling sarees, which includes managing a stock of pre-made sarees and coordinating their customization through designers. Her current business operations, especially inventory management and profit tracking, are manually handled, leading to inefficiencies and challenges as the business expands.
 
-<a name="proposed-solution"></a>
+## Proposed Solution
+In response to these challenges, a Java-based GUI application was developed, utilizing a SQLite database. This solution is crafted to digitally manage saree inventory and streamline business operations, enhancing both efficiency and accuracy. The application, developed using the NetBeans IDE, is designed for ease of use and is scalable for future adaptation to mobile platforms.
 
-Proposed Solution
-To address these challenges, a GUI-based application was developed using Java and SQLite database. This solution is designed to manage saree inventory and handle various business operations digitally, improving efficiency and accuracy. The application is developed in NetBeans IDE, ensuring ease of use and future extendibility to mobile platforms.
+## Success Criteria
+The application encompasses various features, such as:
+- **Login Page**: Ensuring secure access for both admin and employees.
+- **Inventory Management**: Facilitating the addition, editing, and deletion of inventory items.
+- **Database for Inventory**: Providing robust storage for comprehensive inventory details.
+- **Search Inventory**: Enabling inventory sorting and viewing by build.
+- **Custom Saree Management**: Managing details of sarees sent to designers.
+- **Return Management**: Tracking sarees returned from designers.
+- **Pricing and Billing**: Automating the calculation of selling prices, and the generation and printing of bills.
+- **Alerts for Inventory Changes**: Notifying changes when items are sold or modified.
+- **Employee Salary Calculation**: Computing monthly salaries of employees.
+- **Profit Analysis**: Displaying annual and monthly profit figures.
 
-<a name="success-criteria"></a>
+## Application Windows
+- **Data Flow Chart**
+- **UML Diagram**
+- **ER Diagram**
+- **Home Page**
+- **Inventory Table**
+- **Order Saree Window**
 
-Success Criteria
-The application includes features such as:
+## Installation and Setup
+Detailed instructions for installing and setting up the application on your system.
 
-Login Page: Secure access for admin and employees.
-Login Page
-Inventory Management: Add, edit, and delete inventory items.
-Inventory Management Window
-Database for Inventory: Robust storage of all inventory details.
-Database Structure
-Search Inventory: Sort and view inventory by build.
-Search Inventory Window
-Custom Saree Management: Manage details of sarees sent to designers.
-Custom Saree Input Window
-Return Management: Track returned sarees from designers.
-Return Management Window
-Pricing and Billing: Calculate selling prices, generate and print bills.
-Billing Window
-Alerts for Inventory Changes: Notifications for sold or modified items.
-Inventory Alert Window
-Employee Salary Calculation: Monthly salary calculations for employees.
-Salary Calculation Window
-Profit Analysis: Display yearly and monthly profits.
-Profit Analysis Graph
-<a name="application-windows"></a>
+## Usage
+Guidelines on utilizing the application and its array of features.
 
-Application Windows
-Data Flow Chart
-Data Flow Chart
+## Contributing
+Guidance for other developers interested in contributing to this project.
 
-UML Diagram
-UML Diagram
-
-ER Diagram
-ER Diagram
-
-Home Page
-Home Page
-
-Inventory Table
-Inventory Table
-
-Order Saree Window
-Order Saree Window
-
-<a name="installation-and-setup"></a>
-
-Installation and Setup
-Detailed steps to install and set up the application on your system.
-
-<a name="usage"></a>
-
-Usage
-Guidelines on how to use the application and its various features.
-
-<a name="contributing"></a>
+## License
+Information regarding the licensing of the project.
