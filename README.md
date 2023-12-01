@@ -25,6 +25,7 @@ The application encompasses various features, such as:
 - **Login Page**: Ensuring secure access for both admin and employees.
   ![Login Page](Login.png)
 - **Inventory Management**: Facilitating the addition, editing, and deletion of inventory items.
+  ![Inventory Changes Page](Inventory Changes.png)
 - **Database for Inventory**: Providing robust storage for comprehensive inventory details.
 - **Search Inventory**: Enabling inventory sorting and viewing by build.
 - **Custom Saree Management**: Managing details of sarees sent to designers.
